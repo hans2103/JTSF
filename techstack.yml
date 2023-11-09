@@ -1,0 +1,18 @@
+repo_name: hans2103/JTSF
+report_id: 6b6a780ec4c82b988ddc1e4e2735008c
+repo_type: Public
+timestamp: '2023-11-09T15:19:08+00:00'
+requested_by: hans2103
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
